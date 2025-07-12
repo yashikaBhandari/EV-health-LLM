@@ -45,6 +45,12 @@ EV003,45,320,22000,40
 ✅ Clean UI using Streamlit
 
 ✅ Modular code (separate OpenAI logic)
+```
+
+📁 Note: The CSV file `ev_data.csv` contains simulated EV telemetry data to mimic real-world battery,
+         temperature, and charging cycles for the purpose of this demo project.
+
+```
 
 
 ## 🔧 Tech Stack
