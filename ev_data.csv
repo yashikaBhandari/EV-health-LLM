@@ -1,0 +1,6 @@
+vehicle_id,battery_level,charge_cycles,distance_driven,temp
+EV001,78,230,18000,37
+EV002,62,150,9000,34
+EV003,45,320,22000,40
+EV004,88,100,5000,32
+EV005,55,270,16000,38
