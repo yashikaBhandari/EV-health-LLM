@@ -74,7 +74,7 @@ export OPENAI_API_KEY="sk-xxxxxxxxxxxxxxxxxxxx"
 streamlit run app.py
 <br>
 <br>
-## Project Structure
+<h1><br>Project Structure <br></h1>
 
 ```
 📁 ev-health-llm/
@@ -85,3 +85,12 @@ streamlit run app.py
 ├── ev_data.csv             # Sample CSV
 └── README.md               # You're reading this!
 ```
+
+## Future Improvements
+📊 Add visual charts (battery trends, heatmaps)
+
+🧠 Integrate simple ML models to predict battery degradation
+
+📤 Export health reports as PDF or Excel
+
+☁️ Deploy online with Streamlit Cloud
